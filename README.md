@@ -23,7 +23,7 @@ Prerequisites: Javascript <br>
 * Practice using parameters from a request.
 
 # Setup
-1. Create a directory `superheroes_lab`  with a `superheroes.js` file inside. Write your answers inside this one js file.
+1. Create a directory `express_intro_lab`  with a `express_lab.js` file inside. Write your answers inside this one js file.
 
 2. Put the title of the section above your code for easy reference.
 Ex:
